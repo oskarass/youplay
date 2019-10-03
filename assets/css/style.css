@@ -1,26 +1,27 @@
-.bg-navy{
-    height: 50vh;
+.bg-navy {
     background-color: #080325;
 }
 
-.container-blur{
+.container-blur {
     background-color: rgba(255, 255, 255, 0.1);
 }
 
-.parallelogram{
+.parallelogram {
     height: 200px;
     width: 350px;
     transform: skew(-10deg);
 }
 
-.transform p{
+.transform p {
     transform: skew(10deg) !important;
 }
 
-.transform i{
+.transform i {
     transform: skew(10deg) !important;
 }
 
-.transform h4{
+.transform h4 {
     transform: skew(10deg) !important;
 }
+
+

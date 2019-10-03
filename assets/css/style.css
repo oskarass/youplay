@@ -24,4 +24,7 @@
     transform: skew(10deg) !important;
 }
 
-
+.fourth-bg-img {
+    background-image: url(../images/bg2.jpg);
+    height: 90vh;
+}

@@ -1,0 +1,57 @@
+body {
+    font-family: Lato, sans-serif;
+}
+
+.first-section {
+    height: 100vh;
+    background: linear-gradient( rgba(40, 14, 124, 0.5), rgba(40, 14, 124, 0.5)), url(../images/bg1.jpg);
+    background-size: cover;
+    color: #fff;
+}
+
+.navbar {
+    height: 5rem;
+}
+
+header {
+    width: 100%;
+    background: rgba(8,3,37,.4)
+}
+.navbar-brand img {
+    height: 2rem;
+    width: auto;
+}
+
+.navbar li a, .navbar i {
+    color: #fff;
+}
+
+.navbar .dropdown-menu {
+    background: rgba(8,3,37,.4);
+}
+
+.vh-85 {
+    height: 85vh;
+}
+
+.first-section .row .btn-demo {
+    color: #fff;
+    border:
+}
+
+.btn-demo {
+    background: #D92B4C;
+    border: none;
+    padding: 10px;
+}
+
+.btn-purchase {
+    border: 2px solid #fff;
+    padding: 10px;
+    background: transparent;
+    color: #fff;
+}
+
+.login-form-width {
+    width: 250px;
+}

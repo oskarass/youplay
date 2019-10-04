@@ -85,6 +85,13 @@ header {
     width: 370px;
 }
 
+.sixth-section {
+    height: 100vh;
+    background: linear-gradient( rgba(40, 14, 124, 0.5), rgba(40, 14, 124, 0.5)), url(../images/bg3.jpg);
+    background-size: cover;
+    color: #fff;
+}
+
 .seventh {
     background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/bg4.jpg);
     height: 65vh;

@@ -71,7 +71,7 @@ header {
     transform: skew(-10deg);
 }
 
-.transform p, i, h4 {
+.transform {
     transform: skew(10deg) !important;
 }
 
@@ -83,4 +83,31 @@ header {
 
 .card-img {
     width: 370px;
+}
+
+.seventh {
+    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/bg4.jpg);
+    height: 65vh;
+    background-size: cover;
+}
+
+.transform-back {
+    transform: skew(-10deg) !important;
+}
+
+.transform-forward {
+    transform: skew(10deg) !important;
+}
+
+
+.icon-container {
+    padding: 30px 0;
+    background-color: rgba(8, 3, 37, .4);
+    transform: skew(-10deg) !important;
+}
+
+footer {
+    height: 5rem;
+    background: rgba(8, 3, 37, 0.4);
+    width: 100%;
 }
